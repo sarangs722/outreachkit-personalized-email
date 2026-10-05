@@ -1,0 +1,16 @@
+Hi {name},
+
+I hope you're doing well!
+
+I'm reaching out to explore relevant Software Engineering opportunities at {company}.
+
+I have experience building backend and platform systems with Python, Go, Java, AWS, Kubernetes, CI/CD, and automation tooling. I am especially interested in roles where I can work on reliable developer platforms, backend services, and AI-enabled engineering workflows.
+
+I've attached my resume and would appreciate your consideration for any relevant opportunities.
+
+Thank you for your time!
+
+Best regards,
+Your Name
+your.email@example.com
+LinkedIn: https://www.linkedin.com/in/your-profile/

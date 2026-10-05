@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local Gmail OAuth files
+credentials.json
+credentials*.json
+token.json
+token*.json
+client_secret*.json
+
+# Private outreach data
+recruiters.csv
+sent_log.csv
+resume.pdf
+local/
+*.log
+
+# Local/editor files
+.env
+.env.*
+!.env.example
+!.env.sample
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
